@@ -43,7 +43,7 @@ Desarrollado en **COBOL** usando **GnuCOBOL 3.1.2.0** con organización de archi
 ### Pasos de instalación
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/tu-usuario/gestion-comercial-cobol-330UNA.git
+git clone https://github.com/yordisc/gestion-comercial-cobol-330UNA.git
 
 # 2. Compilar
 cobc -x -O -o restaurante.cbl
