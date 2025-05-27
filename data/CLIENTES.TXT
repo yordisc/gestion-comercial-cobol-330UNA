@@ -1,0 +1,3 @@
+J-123456789|Empresa ABC S.A.|Juan Pérez|0212-1234567|0414-1234567|juan@empresa.com|Av. Principal, Caracas
+V-987654321|Tienda XYZ C.A.|María Gómez|0212-9876543|0414-9876543|maria@tienda.com|Calle Secundaria, Valencia
+E-112233445|Servicios 123 C.A.|Carlos López|0212-1122334|0414-1122334|carlos@servicios.com|Av. Libertador, Maracaibo

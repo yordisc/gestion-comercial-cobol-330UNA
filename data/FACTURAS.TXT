@@ -1,0 +1,3 @@
+J-123456789|F-1001|Empresa ABC S.A.|Laptop HP|1200.00|Av. Principal, Caracas|0212-1234567|192.00|1392.00
+V-987654321|F-1002|Tienda XYZ C.A.|Refrigerador|800.00|Calle Secundaria, Valencia|0212-9876543|128.00|928.00
+E-112233445|F-1003|Servicios 123 C.A.|Impresora Epson|300.00|Av. Libertador, Maracaibo|0212-1122334|48.00|348.00
